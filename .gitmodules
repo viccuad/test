@@ -1,0 +1,9 @@
+[submodule "policy-server"]
+	path = policy-server
+	url = git@github.com:kubewarden/policy-server.git
+[submodule "kubewarden-controller"]
+	path = kubewarden-controller
+	url = git@github.com:kubewarden/kubewarden-controller.git
+[submodule "kwctl"]
+	path = kwctl
+	url = git@github.com:kubewarden/kwctl.git
